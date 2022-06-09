@@ -130,7 +130,7 @@ global.reloadHandler = function () {
     conn.off('group-participants-update', conn.onParticipantsUpdate)
     conn.off('CB:action,,call', conn.onCall)
   }
-  conn.welcome = `*Hai @user ! 👋*
+  conn.welcome = `*welcome kontol baca deks jangan share link memek @user ! 👋*
          ‷✧ Selamat Datang di Grup
            *@subject*
            
@@ -143,7 +143,7 @@ global.reloadHandler = function () {
   ${readMore}
               *◌  ⃝✧⪼ Deskripsi Group ミ*
   @desc`
-  conn.bye = '```Sayonara @user ! 👋```'
+  conn.bye = '```nah anak kontol beban keluarga udh keluar jauh jauh luh anjing @user ! 👋```'
   conn.spromote = '「 *PROMOTE* 」\n @user sekarang admin!'
   conn.sdemote = '「 *DEMOTE*」\n @user sekarang bukan admin!'
   conn.handler = handler.handler
