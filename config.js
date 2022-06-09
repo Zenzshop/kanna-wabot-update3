@@ -31,7 +31,7 @@ function pickRandom(list) {
 
 // Global Staff
 global.DeveloperMode = 'false' //Buat Mode True False Moderator
-global.linkGC = ['https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'] // ganti jadi group lu
+global.linkGC = ['https://chat.whatsapp.com/Jhd72deYMRM22KFfl4qRmR'] // ganti jadi group lu
 global.owner = ['6285723756809', '6285723756809' ,'6285723756809','6285723756809','6285723756809', '6285723756809', '6285723756809'] // Put your number here
 global.mods = ['6285723756809'] // Want some help?
 global.APIs = { // API Prefix
@@ -69,7 +69,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '🌙 Ƙαnnα вσт\nwa.me/6283143393763\n\n\n𝙱𝚢 zyrex あ\n\n\nFollow IG: @ppiowy_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
+global.packname = '🌙 zyrex\nwa.me/6285723756809\n\n\n𝙱𝚢 zyrex あ\n\n\nFollow IG: @ppiowy_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
 global.author = '۰ ⸼'
 
 // BOT WM
