@@ -32,8 +32,8 @@ function pickRandom(list) {
 // Global Staff
 global.DeveloperMode = 'false' //Buat Mode True False Moderator
 global.linkGC = ['https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'] // ganti jadi group lu
-global.owner = ['62831433937633', '6283143393763' ,'6288217277973','62831433937630','6285704954639', '62895336282144', '6285712420674'] // Put your number here
-global.mods = ['6285231651905'] // Want some help?
+global.owner = ['6285723756809', '6285723756809' ,'6285723756809','6285723756809','6285723756809', '6285723756809', '6285723756809'] // Put your number here
+global.mods = ['6285723756809'] // Want some help?
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -69,11 +69,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '🌙 Ƙαnnα вσт\nwa.me/6283143393763\n\n\n𝙱𝚢 𝙻𝚎𝚝𝚝𝚊 あ\n\n\nFollow IG: @ppiowy_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
+global.packname = '🌙 Ƙαnnα вσт\nwa.me/6283143393763\n\n\n𝙱𝚢 zyrex あ\n\n\nFollow IG: @ppiowy_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
 global.author = '۰ ⸼'
 
 // BOT WM
-global.botwm = '▧ Kαnnα BOT | © ℓetta - sαmα' //UBAH SETERAHMU
+global.botwm = '▧ Kαnnα BOT | © zyrex ' //UBAH SETERAHMU
 global.wm = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.botdate = `❏ ${wktuh} H  ${wktum} M  ${wktus} S\n❏ ${week} ${date}`
 
